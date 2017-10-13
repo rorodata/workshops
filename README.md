@@ -7,3 +7,7 @@
 4. Internet connection required to access rorodata cloud platform, please check wifi
 5. roro login/passwd required. From command prompt, try `roro login` and enter your user id and password
 
+## Join the workshop slack channel
+
+## Contact us
+ananthatrorodatadotcom, raghavatrorodatadotcom, anandatrorodatadotcom
