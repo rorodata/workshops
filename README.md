@@ -5,5 +5,5 @@
 2.  `pip install roro`
 3.  `pip install firefly-python`
 4. Internet connection required to access rorodata cloud platform, please check wifi
-5. roro login/passwd required. Please try `roro login` and enter your user id and password
+5. roro login/passwd required. From command prompt, try `roro login` and enter your user id and password
 
