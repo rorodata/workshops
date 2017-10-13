@@ -9,5 +9,14 @@
 
 ## Join the workshop slack channel
 
+
+## Model Repositories for this workshop
+- Credit Scoring demo https://github.com/rorodata/credit-scoring-demo
+- Image Recognition demo https://github.com/rorodata/image-recognition-demo
+
 ## Contact us
 ananthatrorodatadotcom, raghavatrorodatadotcom, anandatrorodatadotcom
+
+## Additional Resources
+- rorodata website http://www.rorodata.com
+- rorodata git https://github.com/rorodata/
